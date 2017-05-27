@@ -1,0 +1,33 @@
+{
+  "name": "rpg-host",
+  "version": "1.0.0",
+  "description": "rpg-host api",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Playyer96/rpg-HostF.git"
+  },
+  "keywords": [
+    "rpg"
+  ],
+  "author": "xoakzxz",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Playyer96/rpg-HostF/issues"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "jade": "^1.11.0",
+    "morgan": "^1.8.2",
+    "path": "^0.12.7",
+    "pg": "^6.2.3",
+    "serve-favicon": "^2.4.3"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "homepage": "https://github.com/Playyer96/rpg-HostF#readme"
+}
